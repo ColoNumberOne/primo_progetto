@@ -25,7 +25,7 @@ SECRET_KEY = 'nx!rmm=zz67(s1agqw^s*ppgd#rx_tsmqh$uwy@b2r!-m=4*^$'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
